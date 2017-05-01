@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/background"
+    >
+
+<TextView  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="短信管理器"
+    android:textColor="#FFFFFF"
+    android:gravity="center_horizontal"
+    android:textSize="30px"
+    android:layout_margin="20px"
+    />
+    
+<ListView 
+    android:id="@+id/listview"
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:drawSelectorOnTop="false"
+/>
+<!--  <Button 
+    android:id="@+id/writeButton"
+    android:layout_width="150px"
+    android:layout_height="wrap_content"
+    android:text="撰写短信"
+    android:layout_margin="10px"
+    android:layout_gravity="center_horizontal"
+    android:onClick="onWriteButtonClick"
+/>
+<Button 
+    android:id="@+id/reciveButton"
+    android:layout_width="150px"
+    android:layout_height="wrap_content"
+    android:text="收到短信"
+    android:layout_margin="10px"
+    android:layout_gravity="center_horizontal"
+    android:onClick="onReciveButtonClick"
+/>
+
+<Button 
+    android:id="@+id/sendedButton"
+    android:layout_width="150px"
+    android:layout_height="wrap_content"
+    android:text="已发送短信"
+    android:layout_margin="10px"
+    android:layout_gravity="center_horizontal"
+    android:onClick="onSendedButtonClick"
+/>
+<Button 
+    android:id="@+id/rabbigeButton"
+    android:layout_width="150px"
+    android:layout_height="wrap_content"
+    android:text="草稿箱"
+    android:layout_margin="10px"
+    android:layout_gravity="center_horizontal"
+    android:onClick="onRabbigeButtonClick"
+/>-->
+
+</LinearLayout>

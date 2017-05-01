@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="fill_parent">
+	<TextView android:text="联系人电话号码：" android:layout_height="wrap_content"
+		android:layout_width="fill_parent" />
+
+	<AutoCompleteTextView android:id="@+id/phoneNumEditText"
+		android:layout_height="wrap_content" android:layout_width="fill_parent"
+	/>
+
+	<TextView android:text="信息：" android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:gravity="left" />
+	<EditText android:id="@+id/messageEditText"
+		android:layout_width="fill_parent" android:layout_height="200px"
+		android:minLines="4" android:lines="4" android:gravity="top"
+		android:singleLine="false" android:inputType="textMultiLine" />
+  <LinearLayout 
+	android:orientation="horizontal" android:layout_width="wrap_content"
+	android:layout_height="wrap_content" >
+	<Button android:id="@+id/sendSMSButton" android:layout_width="100px"
+		android:layout_height="wrap_content" android:text="发送"
+		android:gravity="center" />
+	<Button android:id="@+id/rabbageSMSButton" android:layout_width="100px"
+		android:layout_height="wrap_content" android:text="存草稿箱"
+		android:gravity="center" android:onClick="onSaveRabbageBox" />	
+ </LinearLayout>
+</LinearLayout>

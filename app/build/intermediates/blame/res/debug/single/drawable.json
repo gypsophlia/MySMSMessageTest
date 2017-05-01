@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Volumes/External_SD/AndroidStudioProjects/MySMSMessageTest/app/build/intermediates/res/merged/debug/drawable/background.png",
+        "source": "/Volumes/External_SD/AndroidStudioProjects/MySMSMessageTest/app/src/main/res/drawable/background.png"
+    },
+    {
+        "merged": "/Volumes/External_SD/AndroidStudioProjects/MySMSMessageTest/app/build/intermediates/res/merged/debug/drawable/recive.png",
+        "source": "/Volumes/External_SD/AndroidStudioProjects/MySMSMessageTest/app/src/main/res/drawable/recive.png"
+    },
+    {
+        "merged": "/Volumes/External_SD/AndroidStudioProjects/MySMSMessageTest/app/build/intermediates/res/merged/debug/drawable/write.png",
+        "source": "/Volumes/External_SD/AndroidStudioProjects/MySMSMessageTest/app/src/main/res/drawable/write.png"
+    },
+    {
+        "merged": "/Volumes/External_SD/AndroidStudioProjects/MySMSMessageTest/app/build/intermediates/res/merged/debug/drawable/setting.png",
+        "source": "/Volumes/External_SD/AndroidStudioProjects/MySMSMessageTest/app/src/main/res/drawable/setting.png"
+    },
+    {
+        "merged": "/Volumes/External_SD/AndroidStudioProjects/MySMSMessageTest/app/build/intermediates/res/merged/debug/drawable/repair.png",
+        "source": "/Volumes/External_SD/AndroidStudioProjects/MySMSMessageTest/app/src/main/res/drawable/repair.png"
+    },
+    {
+        "merged": "/Volumes/External_SD/AndroidStudioProjects/MySMSMessageTest/app/build/intermediates/res/merged/debug/drawable/sended.png",
+        "source": "/Volumes/External_SD/AndroidStudioProjects/MySMSMessageTest/app/src/main/res/drawable/sended.png"
+    },
+    {
+        "merged": "/Volumes/External_SD/AndroidStudioProjects/MySMSMessageTest/app/build/intermediates/res/merged/debug/drawable/ra.png",
+        "source": "/Volumes/External_SD/AndroidStudioProjects/MySMSMessageTest/app/src/main/res/drawable/ra.png"
+    },
+    {
+        "merged": "/Volumes/External_SD/AndroidStudioProjects/MySMSMessageTest/app/build/intermediates/res/merged/debug/drawable/cl.png",
+        "source": "/Volumes/External_SD/AndroidStudioProjects/MySMSMessageTest/app/src/main/res/drawable/cl.png"
+    }
+]

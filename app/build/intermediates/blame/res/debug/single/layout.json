@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Volumes/External_SD/AndroidStudioProjects/MySMSMessageTest/app/build/intermediates/res/merged/debug/layout/qqmessage_main.xml",
+        "source": "/Volumes/External_SD/AndroidStudioProjects/MySMSMessageTest/app/src/main/res/layout/qqmessage_main.xml"
+    },
+    {
+        "merged": "/Volumes/External_SD/AndroidStudioProjects/MySMSMessageTest/app/build/intermediates/res/merged/debug/layout/receiverphone_main.xml",
+        "source": "/Volumes/External_SD/AndroidStudioProjects/MySMSMessageTest/app/src/main/res/layout/receiverphone_main.xml"
+    },
+    {
+        "merged": "/Volumes/External_SD/AndroidStudioProjects/MySMSMessageTest/app/build/intermediates/res/merged/debug/layout/list_item.xml",
+        "source": "/Volumes/External_SD/AndroidStudioProjects/MySMSMessageTest/app/src/main/res/layout/list_item.xml"
+    },
+    {
+        "merged": "/Volumes/External_SD/AndroidStudioProjects/MySMSMessageTest/app/build/intermediates/res/merged/debug/layout/message_setting.xml",
+        "source": "/Volumes/External_SD/AndroidStudioProjects/MySMSMessageTest/app/src/main/res/layout/message_setting.xml"
+    },
+    {
+        "merged": "/Volumes/External_SD/AndroidStudioProjects/MySMSMessageTest/app/build/intermediates/res/merged/debug/layout/receiverphone_item.xml",
+        "source": "/Volumes/External_SD/AndroidStudioProjects/MySMSMessageTest/app/src/main/res/layout/receiverphone_item.xml"
+    },
+    {
+        "merged": "/Volumes/External_SD/AndroidStudioProjects/MySMSMessageTest/app/build/intermediates/res/merged/debug/layout/message_item.xml",
+        "source": "/Volumes/External_SD/AndroidStudioProjects/MySMSMessageTest/app/src/main/res/layout/message_item.xml"
+    },
+    {
+        "merged": "/Volumes/External_SD/AndroidStudioProjects/MySMSMessageTest/app/build/intermediates/res/merged/debug/layout/message_main.xml",
+        "source": "/Volumes/External_SD/AndroidStudioProjects/MySMSMessageTest/app/src/main/res/layout/message_main.xml"
+    },
+    {
+        "merged": "/Volumes/External_SD/AndroidStudioProjects/MySMSMessageTest/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Volumes/External_SD/AndroidStudioProjects/MySMSMessageTest/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Volumes/External_SD/AndroidStudioProjects/MySMSMessageTest/app/build/intermediates/res/merged/debug/layout/writemessage.xml",
+        "source": "/Volumes/External_SD/AndroidStudioProjects/MySMSMessageTest/app/src/main/res/layout/writemessage.xml"
+    }
+]
